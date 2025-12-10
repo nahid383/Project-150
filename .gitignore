@@ -1,0 +1,33 @@
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+build/
+
+# Object files
+*.o
+*.obj
+*.pdb
+*.ipdb
+*.iobj
+
+# Executables
+*.exe
+*.dll
+*.lib
+*.exp
+
+# SFML binaries
+sfml-*.dll
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake-build*/
